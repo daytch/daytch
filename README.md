@@ -28,9 +28,7 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daytch&show_icons=true&theme=radical&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daytch&layout=compact&theme=radical&hide_border=true)
+<a href="https://app.daily.dev/daytch"><img src="https://api.daily.dev/devcards/v2/uC05lw1Gv20TtRJkDTq8Y.png?r=nsu&type=wide" width="652" alt="Nurul Hidayat's Dev Card"/></a>
 
 ---
 
