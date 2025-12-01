@@ -8,6 +8,10 @@
 
 ---
 
+<a href="https://app.daily.dev/daytch"><img src="https://api.daily.dev/devcards/v2/uC05lw1Gv20TtRJkDTq8Y.png?r=nsu&type=wide" width="652" alt="Nurul Hidayat's Dev Card"/></a>
+
+---
+
 ## 🌐 Connect with me
 [![Website](https://img.shields.io/badge/-Website-000?style=flat-square&logo=About.me&logoColor=white)](https://dayat.id)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurul-hidayat/)
@@ -25,10 +29,6 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-404d59?style=flat-square&logo=express&logoColor=white)
 ![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
----
-
-<a href="https://app.daily.dev/daytch"><img src="https://api.daily.dev/devcards/v2/uC05lw1Gv20TtRJkDTq8Y.png?r=nsu&type=wide" width="652" alt="Nurul Hidayat's Dev Card"/></a>
 
 ---
 
